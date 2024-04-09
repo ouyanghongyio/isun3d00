@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95cb3dec-59bf-4749-81a9-c47749fd5c63" name="更改" comment="新增项目">
+    <list default="true" id="95cb3dec-59bf-4749-81a9-c47749fd5c63" name="更改" comment="更新 index.html 修复 warring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/course.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/store.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
       <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\docs" />
       <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\images" />
     </key>
   </component>
@@ -69,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712622979511</updated>
-      <workItem from="1712622980549" duration="27602000" />
+      <workItem from="1712622980549" duration="28626000" />
     </task>
     <task id="LOCAL-00001" summary="新增README.md">
       <option name="closed" value="true" />
@@ -87,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712651648463</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新 index.html 修复 warring">
+      <option name="closed" value="true" />
+      <created>1712652140176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712652140176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增README.md" />
     <MESSAGE value="新增项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增项目" />
+    <MESSAGE value="更新 index.html 修复 warring" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 index.html 修复 warring" />
   </component>
 </project>
