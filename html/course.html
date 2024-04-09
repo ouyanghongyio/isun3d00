@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>课程</title>
+    <link rel="stylesheet" href="../css/me.css">
+    <style>
+
+        #courses {
+            display: flex;
+            flex-direction: column;  /* 垂直排列 */
+            justify-content: space-around;  /* 子元素平均分布 */
+            align-items: center;  /* 子元素垂直居中 */
+            margin-top: 150px;
+            margin-bottom: 90px;
+        }
+
+        .course-box {
+            width: 100%;
+            height: 100px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            display: flex;
+            border-radius: 5px; /* 所有边角圆角半径为 10px */
+            margin-top: 10px;
+        }
+
+        .course-img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+
+    </style>
+</head>
+<body>
+<div id="top">
+    <div id="welcome">
+        <h1>李纲的小店</h1>
+    </div>
+</div>
+
+<div id="second">
+    <div id="ad-box">
+        <div id="text-wrapper">
+            <img id="laba-img" src="../images/laba.png">
+            <p id="ad">欢迎来到李纲的小店</p>
+        </div>
+    </div>
+</div>
+
+<div id="courses">
+    <div class="course-box">
+        <a href="https://m.tb.cn/h.5zsLMEIith7978s?tk=cQ66WqaQl9w">
+            <img class="course-img" src="../images/laba.png">
+        </a>
+        <p class="course-text">电商课程介绍</p>
+    </div>
+    <div class="course-box">
+        <a href="https://m.tb.cn/h.5zsLMEIith7978s?tk=cQ66WqaQl9w">
+            <img class="course-img" src="../images/laba.png">
+        </a>
+        <p class="course-text">眼镜制作课程介绍</p>
+    </div>
+    <div class="course-box">
+        <a href="https://m.tb.cn/h.5zsLMEIith7978s?tk=cQ66WqaQl9w">
+            <img class="course-img" src="../images/laba.png">
+        </a>
+        <p class="course-text">其他课程介绍</p>
+    </div>
+</div>
+
+<footer id="footer">
+    <ul class="nav">
+        <li>
+            <a href="../index.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/menu.png">
+                    <text>首页</text>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="../html/goods.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/goods.png">
+                    <text>商品</text>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="../html/store.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/store.png">
+                    <text>商铺</text>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="../html/course.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/course.png">
+                    <text>课程</text>
+                </div>
+            </a>
+        </li>
+    </ul>
+</footer>
+
+</body>
+</html>

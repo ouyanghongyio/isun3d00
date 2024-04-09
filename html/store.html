@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>商铺</title>
+    <link rel="stylesheet" href="../css/me.css">
+    <style>
+        #stores {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 150px;
+        }
+
+        .store-img-box {
+            float: left;
+            /* 边框 */
+            border-radius: 10px;  /* 圆角半径 */
+            border: 1px solid #ccc;  /* 边框颜色和宽度 */
+
+            /* 尺寸 */
+            width: 100px;  /* 宽度 */
+            height: 100px;  /* 高度 */
+
+            /* 背景 */
+            background-color: #ffffff;  /* 背景颜色 */
+
+            margin-top: 10px;
+            margin-left: 30px;
+            margin-right: 30px;
+
+        }
+
+        .store-img{
+            width: 100px;
+            height: 100px;
+        }
+
+        .store-text {
+            text-align: center;
+            margin: 5px;
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+<div id="top">
+    <div id="welcome">
+        <h1>李纲的小店</h1>
+    </div>
+</div>
+
+<div id="second">
+    <div id="ad-box">
+        <div id="text-wrapper">
+            <img id="laba-img" src="../images/laba.png">
+            <p id="ad">欢迎来到李纲的小店</p>
+        </div>
+    </div>
+</div>
+
+
+<div id="stores">
+    <div class="store-img-box">
+        <a href="https://m.tb.cn/h.5zsLMEIith7978s?tk=cQ66WqaQl9w">
+            <img class="store-img" id="taobao-img" src="../images/laba.png">
+            <p class="store-text">淘宝小店</p>
+        </a>
+    </div>
+    <div class="store-img-box">
+        <a href="https://m.tb.cn/h.5ACoHkzLP3VQ6pX?tk=GBYoWqakNGc">
+            <img class="store-img" id="tianmao-img" src="../images/laba.png">
+            <p class="store-text">天猫小店</p>
+        </a>
+    </div>
+</div>
+
+<footer id="footer">
+    <ul class="nav">
+        <li>
+            <a href="../index.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/menu.png">
+                    <text>首页</text>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="../html/goods.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/goods.png">
+                    <text>商品</text>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="../html/store.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/store.png">
+                    <text>商铺</text>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="../html/course.html">
+                <div class="footer-box">
+                    <img class="footer-img" src="../images/course.png">
+                    <text>课程</text>
+                </div>
+            </a>
+        </li>
+    </ul>
+</footer>
+
+</body>
+</html>
