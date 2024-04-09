@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95cb3dec-59bf-4749-81a9-c47749fd5c63" name="更改" comment="更新 index.html 修复 warring">
+    <list default="true" id="95cb3dec-59bf-4749-81a9-c47749fd5c63" name="更改" comment="更新 goods.html,course.html,store.html 修复 warring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/course.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/course.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/goods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/store.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/me.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/me.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/course.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/store.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/course.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/course.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/goods.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/laba.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/laba.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/menu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/store.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/store.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/store.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,41 +36,57 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2eqCylYEuUa6R0dAuPgJ0YYCjDT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/programfile/jetbra-idea-project/ligangxiaodian/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/programfile/jetbra-idea-project/ligangxiaodian&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\docs" />
       <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\docs" />
       <recent name="D:\programfile\jetbra-idea-project\ligangxiaodian\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ligangxiaodian" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ligangxiaodian" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712622979511</updated>
-      <workItem from="1712622980549" duration="28626000" />
+      <workItem from="1712622980549" duration="30168000" />
     </task>
     <task id="LOCAL-00001" summary="新增README.md">
       <option name="closed" value="true" />
@@ -99,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712652140176</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新 goods.html,course.html,store.html 修复 warring">
+      <option name="closed" value="true" />
+      <created>1712653182479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712653182479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +140,7 @@
     <MESSAGE value="新增README.md" />
     <MESSAGE value="新增项目" />
     <MESSAGE value="更新 index.html 修复 warring" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新 index.html 修复 warring" />
+    <MESSAGE value="更新 goods.html,course.html,store.html 修复 warring" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新 goods.html,course.html,store.html 修复 warring" />
   </component>
 </project>
