@@ -161,6 +161,7 @@ a {
     margin-top: 10px;
     margin-left: 30px;
     margin-right: 30px;
+    margin-bottom: 50px;
 
 }
 
@@ -171,7 +172,7 @@ a {
 
 .store-text {
     text-align: center;
-    margin: 5px 5px 40px 5px;
+    margin: 5px;
     color: white;
 }
 
@@ -180,7 +181,7 @@ a {
     flex-direction: column;  /* 垂直排列 */
     justify-content: space-around;  /* 子元素平均分布 */
     align-items: center;  /* 子元素垂直居中 */
-    margin-top: 150px;
+    margin-top: 10px;
     margin-bottom: 90px;
 }
 
