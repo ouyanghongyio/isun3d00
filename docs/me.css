@@ -141,7 +141,7 @@ a {
 #stores {
     display: flex;
     flex-wrap: wrap;
-    justify-content : flex-start;
+    justify-content : center;
     margin-top: 150px;
 }
 
@@ -181,7 +181,7 @@ a {
     flex-direction: column;  /* 垂直排列 */
     justify-content: space-around;  /* 子元素平均分布 */
     align-items: center;  /* 子元素垂直居中 */
-    margin-top: 10px;
+    margin-top: 80px;
     margin-bottom: 90px;
 }
 
