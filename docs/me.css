@@ -141,7 +141,6 @@ a {
 #stores {
     display: flex;
     flex-wrap: wrap;
-    align-content: center;
     margin-top: 150px;
 }
 
@@ -171,7 +170,7 @@ a {
 
 .store-text {
     text-align: center;
-    margin: 5px 5px 30px 5px;
+    margin: 5px 5px 40px 5px;
     color: white;
 }
 
