@@ -141,7 +141,8 @@ a {
 #stores {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    align-content: center;
+    justify-content: center;
     margin-top: 150px;
 }
 
