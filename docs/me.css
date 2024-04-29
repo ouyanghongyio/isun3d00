@@ -12,9 +12,13 @@ body{
 
 }
 
+@font-face{
+    font-family: Zixinfang;
+    src: url("https://ouyanghongyio.github.io/ligangxiaodian/zixinfang.ttf");
+}
+
 h1 {
-    font-family: "Times New Roman", serif;
-    font-style: italic;
+    font-family: "Zixinfang";
 }
 
 #second {
