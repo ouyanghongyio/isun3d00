@@ -21,6 +21,10 @@ h1 {
     font-family: "Zixinfang";
 }
 
+text{
+    font-family: "Zixinfang";
+}
+
 #second {
     position: fixed;
     top: 60px;
@@ -195,6 +199,10 @@ a {
     display: flex;
     border-radius: 5px; /* 所有边角圆角半径为 10px */
     margin-top: 10px;
+}
+
+.good-a {
+    display: flex;
 }
 
 .good-img {
