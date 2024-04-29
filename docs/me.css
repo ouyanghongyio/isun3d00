@@ -202,3 +202,13 @@ a {
     object-fit: cover;
     margin-right: 10px;
 }
+
+#yindao-box{
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 90px;
+}
+#yindao-img{
+    width: 100%;
+    height: auto;
+}
